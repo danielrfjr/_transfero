@@ -36,5 +36,5 @@ class Genero(models.Model):
 
 
 # Filme - Nome do Filme, ano de lançamento, estúdio, gênero, sinopse, data de cadastro
-# Gênero - nome.
+# Gênero - nome. e
 
